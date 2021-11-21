@@ -1,0 +1,14 @@
+body {
+
+    color:#050505;
+}
+.jumbotron {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/03/33/32/30/1000_F_333323055_f3Kt152209tBt9cnpf24l7RBxFQQKN0q.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color:#050505;
+}    background-color: rgba(96, 96, 216, 0.151);
+
+#bar {
+    border-radius: 100%;
+}
